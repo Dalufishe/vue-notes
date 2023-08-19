@@ -7,7 +7,7 @@ Vue 是一套構建用戶介面的漸進式 Javascript 框架。
 
 ### Vue 歷史
 
-![]("./../assets/vue-history.png")
+![](assets/vue-history.png)
 
 ### Vue 特點
 
